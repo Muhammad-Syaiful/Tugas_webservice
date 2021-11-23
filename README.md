@@ -13,6 +13,6 @@ bahan yang dibutuhkan
 
 - xampp
 - composer
-- laravel 
+- laravel https://laravel.com/docs/8.x/installation#installation-via-composer
 - postman
 
